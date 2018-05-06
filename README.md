@@ -1,4 +1,4 @@
-prereqs for docker presentation
+# prereqs for docker presentation
 
 install the following packages:
 
@@ -15,4 +15,4 @@ https://docs.docker.com/machine/install-machine/
 install virtualbox
 
 sudo apt update
-sudo apt install virtualbox
+sudo apt install virtualbox git
