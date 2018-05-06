@@ -11,7 +11,7 @@ Docker is just the front end to a myriad of container technologies that are offe
 ```pipenv --python 3.5 #could also do 3.6 if you're on it```  
 ```pipenv install asyncpg aiohttp```  
 Verify things work by trying to instantiate the modules you just installed  
-```python3 -m aiohtt ```    
+```python3 -m aiohttp ```    
 ```python3 -m asyncpg```  
 if you see this: 
 ```bin/python3: No module named asyncpg.__main__; 'asyncpg' is a package and cannot be directly executed```  
